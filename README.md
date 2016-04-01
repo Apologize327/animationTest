@@ -1,5 +1,5 @@
 # animationTest
-iOS动画的简单体验
+iOS动画的简单体验，涵盖了常用的几种动画
 </br>
 效果如下：
 </br>
